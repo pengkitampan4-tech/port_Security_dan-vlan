@@ -80,6 +80,6 @@ exit
 end
 write 
 
-# Menutup
+# Penutup
 sekian terimakasih saya sandi.firdaus izin pamit bukan karena kalah,tapi saya tau kapan harus berhenti mendaur ulang sampah
 <img width="386" height="518" alt="image" src="https://github.com/user-attachments/assets/46215a95-3791-48f8-8772-402ce94584af" />
